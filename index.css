@@ -1,0 +1,43 @@
+body {
+	background: grey;
+	display: flex;
+	flex-direction: column;
+	align-items: side;
+	justify-content: side;
+}
+
+#message {
+	text-align: center;
+	font-size: 30px;
+	font: roboto;
+}
+
+
+#snake {
+	padding: 20px 20px;
+	margin: 20px;
+	
+}
+
+#bird {
+	padding: 20px 20px;
+	margin: 20px;
+}
+
+#number {
+	padding: 20px 20px;
+	margin: 20px;
+	
+}
+
+#tip {
+	padding: 20px 20px;
+	margin: 20px;
+	
+}
+
+#calculator {
+	padding: 20px 20px;
+	margin: 20px;
+	
+}

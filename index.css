@@ -41,3 +41,16 @@ body {
 	margin: 20px;
 	
 }
+
+
+
+
+.clock {
+  position: absolute;
+  top: 30%;
+  left: 70%;
+  transform: translateX(-50%) translateY(-50%);
+  color: #17d4fe;
+  font-size: 60px;
+  letter-spacing: 7px;
+}

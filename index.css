@@ -41,3 +41,7 @@ h1 {
   font-size: 15px;
   color: black;
 }
+
+img {
+  border-radius: 10px;
+}

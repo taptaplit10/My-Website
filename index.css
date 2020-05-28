@@ -1,1 +1,12 @@
+body {
+  background: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
 
+#snake {
+  padding: 20px 20px;
+  font-size: 15px;
+  color: black;
+}

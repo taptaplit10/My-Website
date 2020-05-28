@@ -17,6 +17,7 @@ h1 {
   color: black;
   justify-content: center;
   align-items: center;
+  padding: 20px 20px;
 }
 
 #bird {
@@ -24,6 +25,7 @@ h1 {
   color: black;
   justify-content: center;
   align-items: center;
+  padding: 20px 20px;
 }
 
 #number {
@@ -31,6 +33,7 @@ h1 {
   color: black;
   justify-content: center;
   align-items: center;
+  padding: 20px 20px;
 }
 
 #calculator {
@@ -38,6 +41,7 @@ h1 {
   color: black;
   justify-content: center;
   align-items: center;
+  padding: 20px 20px;
 }
 
 #tip {
@@ -45,6 +49,7 @@ h1 {
   color: black;
   justify-content: center;
   align-items: center;
+  padding: 20px 20px;
 }
 
 img {

@@ -10,3 +10,27 @@ body {
   font-size: 15px;
   color: black;
 }
+
+#bird {
+  padding: 20px 20px;
+  font-size: 15px;
+  color: black;
+}
+
+#number {
+  padding: 20px 20px;
+  font-size: 15px;
+  color: black;
+}
+
+#calculator {
+  padding: 20px 20px;
+  font-size: 15px;
+  color: black;
+}
+
+#tip {
+  padding: 20px 20px;
+  font-size: 15px;
+  color: black;
+}

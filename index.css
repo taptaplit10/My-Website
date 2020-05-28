@@ -15,30 +15,42 @@ h1 {
 #snake {
   font-size: 15px;
   color: black;
+  justify-content: center;
+  align-items: center;
 }
 
 #bird {
   font-size: 15px;
   color: black;
+  justify-content: center;
+  align-items: center;
 }
 
 #number {
   font-size: 15px;
   color: black;
+  justify-content: center;
+  align-items: center;
 }
 
 #calculator {
   font-size: 15px;
   color: black;
+  justify-content: center;
+  align-items: center;
 }
 
 #tip {
   font-size: 15px;
   color: black;
+  justify-content: center;
+  align-items: center;
 }
 
 img {
   border-radius: 30px;
   width: 300px;
   height: 230px;
+  justify-content: center;
+  align-items: center;
 }
